@@ -1,4 +1,4 @@
-337
+362
 “Dogs have Owners, Cats have Staff.”
 “I do not fear computers. I fear lack of them.” – Isaac Asimov
 “A computer once beat me at chess, but it was no match for me at kick boxing.” – Emo Philips
@@ -336,18 +336,27 @@ No change is bad” Toyota President Katsuaki Watanabe (Osono et al 2008, 15)
 "Information is not knowledge." Albert Einstein
 "I have not failed. I've just found 10,000 ways that won't work." Thomas A. Edison 
 "Genius is one percent inspiration and ninety-nine percent perspiration." Thomas A. Edison 
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
+“Algorithmic complexity for structured programmers: All algorithms are O(f(n)), where f is someone else’s responsibility.” – Peter Cooper
+“Fact: 48% of IE7 usage comes from developers checking that their site works in IE7.” – @iamdevloper
+“Programmers don’t burn out on hard work, they burn out on change-with-the-wind directives and not ‘shipping’.” – Mark Berry
+“I’ve known people who have not mastered their tools who are good programmers, but not a tool master who remained a mediocre programmer.” – Kent Beck
+“There are two types of people in this world: those who understand recursion and those who don’t understand that there are two types of people in this world.”
+“Daddy, how is software made?” “Well, when a programmer loves an idea very much they stay up all night and then push to github the next day.” – Sam Kottler 
+“Software developers like to solve problems. If there are no problems handily available, they will create their own problems.”
+“The problem with quick and dirty, is that the dirty remains long after the quick has been forgotten” – Steve C. McConnell
+“Prolific developers don’t always write a lot of code, instead they solve a lot of problems. The two things are not the same.” – J. Chambers
+“A programmer’s wife tells him: go to store. pick up a loaf of bread. If they have eggs, get a dozen. The programmer returns with 12 loaves.”
+“Bad programmers have all the answers. Good testers have all the questions.” – Gil Zilberfeld
+“Our job is to tell you your baby is ugly!” – Software Testers
+“The best TDD can do, is assure that code does what the programmer thinks it should do. That is pretty good BTW.” – James Grenning
+“The bitterness of poor quality remains long after the sweetness of meeting the schedule has been forgotten.” – Anonymous
+“One bad programmer can easily create two new jobs a year.” – David Parnas
+“Don’t document bad code — rewrite it.” – Kernighan and Plauger
+“3 Errors walk into a bar. The barman says, “normally I’d Throw you all out, but tonight I’ll make an Exception.” – @iamdevloper
+“Weeks of programming can save you hours of planning.” - Anonymous
+“If you think it’s expensive to hire a professional, wait until you hire an amateur.”
+“Programming can be fun, so can cryptography; however they should not be combined.” -Kreitzberg and Shneiderman
+“The proper use of comments is to compensate for our failure to express ourself in code.” – Uncle Bob Martin
+“My definition of an expert in any field is a person who knows enough about what’s really going on to be scared.” – P. J. Plauger
+“First, solve the problem. Then, write the code.” – John Johnson
+“Programming is not a zero-sum game. Teaching something to a fellow programmer doesn’t take it away from you.” – John Carmack
