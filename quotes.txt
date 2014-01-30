@@ -1,4 +1,4 @@
-362
+392
 “Dogs have Owners, Cats have Staff.”
 “I do not fear computers. I fear lack of them.” – Isaac Asimov
 “A computer once beat me at chess, but it was no match for me at kick boxing.” – Emo Philips
@@ -360,3 +360,33 @@ No change is bad” Toyota President Katsuaki Watanabe (Osono et al 2008, 15)
 “My definition of an expert in any field is a person who knows enough about what’s really going on to be scared.” – P. J. Plauger
 “First, solve the problem. Then, write the code.” – John Johnson
 “Programming is not a zero-sum game. Teaching something to a fellow programmer doesn’t take it away from you.” – John Carmack
+One of my most productive days was throwing away 1000 lines of code  — Ken Thompson
+When in doubt, use brute force.    — Ken Thompson
+Deleted code is debugged code.  — Jeff Sickel
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. — Brian W. Kernighan and P. J. Plauger in The Elements of Programming Style.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. — Brian W. Kernighan, in the paper Unix for Beginners (1979)
+Controlling complexity is the essence of computer programming. — Brian Kernighan
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defence against complexity.   — David Gelernter
+UNIX was not designed to stop its users from doing stupid things, as that would also stop them from doing clever things.   — Doug Gwyn
+Life is too short to run proprietary software. — Bdale Garbee
+The central enemy of reliability is complexity.  — Geer et al.
+Simplicity is prerequisite for reliability.   — Edsger W. Dijkstra
+Simplicity is the ultimate sophistication.  — Leonardo da Vinci
+The unavoidable price of reliability is simplicity.  — C.A.R. Hoare
+You can’t trust code that you did not totally create yourself.   — Ken Thompson
+Compatibility means deliberately repeating other people’s mistakes.  — David Wheeler
+Debugging time increases as a square of the program’s size.   — Chris Wenham
+Before software can be reusable it first has to be usable.
+The best code is no code at all.
+No code is faster than no code.  — merb motto
+Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.  — Edsger W. Dijkstra
+Parkinson’s Law  “Work expands so as to fill the time available for its completion.”
+Code never lies, comments sometimes do. — Ron Jeffries
+If we’d asked the customers what they wanted, they would have said “faster horses” — Henry Ford
+With diligence it is possible to make anything run slowly.— Tom Duff
+Software obeys the law of gaseous expansion – it continues to grow until memory is completely filled. — Larry Gleason
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. — Leslie Lamport
+The proper use of comments is to compensate for our failure to express ourself in code. — Robert C. MartinClean Code
+Incorrect documentation is often worse than no documentation.   — Bertrand Meyer
+Security is a state of mind.   — NSA Security Manua
+And don’t EVER make the mistake that you can design something better than what you get from ruthless massively parallel trial-and-error with a feedback cycle. That’s giving your intelligence much too much credit    — Linus 
